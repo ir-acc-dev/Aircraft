@@ -6,6 +6,7 @@ import HeaderComponent from "./components/HeaderComponent.jsx";
 import Home from "./components/Home.jsx";
 import AircraftList from "./components/AircraftList.jsx";
 import AircraftEntry from "./components/AircraftEntry.jsx";
+import './App.css'
 
 function App() {
 
